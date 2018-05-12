@@ -1,0 +1,32 @@
+_repo: Herein-is-LoveA-Study-of-the-Biblical-Doctrine-of-Love-in-Its-Bearing-on-Personality-Parentho__20289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howe, Reuel L.
+    birthdate: 1905
+    deathdate: 1985
+    gutenberg_agent_id: '9211'
+    url: http://www.gutenberg.org/2009/agents/9211
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- Love
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Religious aspects -- Christianity'
+- !lcc 'BV'
+title: 'Herein is Love
+
+  A Study of the Biblical Doctrine of Love in Its Bearing on Personality, Parenthood,
+  Teaching, and All Other Human Relationships.'
+url: http://www.gutenberg.org/ebooks/20289
