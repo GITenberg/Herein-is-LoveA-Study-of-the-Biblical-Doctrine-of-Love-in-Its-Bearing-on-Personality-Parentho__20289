@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9211'
     url: http://www.gutenberg.org/2009/agents/9211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20289#Herein-is-LoveA-Study-of-the-Biblical-Doctrine-of-Love-in-Its-Bearing-on-Personality-Parentho_
 gutenberg_bookshelf:
 - Christianity
 - Love
